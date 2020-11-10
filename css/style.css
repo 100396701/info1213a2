@@ -1,0 +1,283 @@
+.links:hover{
+ color:white;
+ background-color: #08d665;
+ }
+ #whole{
+   background-color: #000000;
+ }
+
+.title{
+  margin-top:50px;
+  color: white;
+  font-size: 80px;
+  text-align: center;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  font-weight: bold;
+}
+.name:hover{
+  color:#08d665;
+}
+img{
+  height:750px;
+  width:450px;
+  padding-top: 70px;
+}
+.row{
+  width: 1070px;
+  padding-left: 30px;
+}
+.details{
+  font-size: 20px;
+  color: white;
+  line-height: 1.5;
+  padding-top: 130px;
+}
+
+.detail{
+  color: grey;
+}
+.hername{
+  font-size:50px;
+  color: #08d665;
+  font-weight: bold;
+}
+.lng{
+  color: white;
+  font-size: 45px;
+  padding-top: 30px;
+  text-align: center;
+
+}
+
+.contact:hover{
+  color: #08d665;
+}
+.skill{
+  font-size: 45px;
+  color:#08d665;
+  padding-top: 35px;
+  font-weight: bold;
+  padding-left: 40px;
+}
+.lngs{
+  color: white;
+}
+.card-deck{
+  padding-top: 60px;
+  padding-left: 70px;
+
+}
+.card:hover{
+  background-color:black;
+
+}
+
+.card-body{
+  background-color:#08d665;
+  font-size: 22px;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  padding-top: 30px;
+}
+.languages{
+  padding-top: 50px;
+}
+.bar{
+
+  /* background-color: #08d665; */
+  width:100%;
+  height: 50px;
+  padding-top: 7px;
+  font-weight: bold;
+  color: black;
+  background-color: #08d665;
+  text-align: center;
+  /* color: white; */
+}
+.contacts{
+  color: #08d665;
+}
+h4{
+color: white;
+text-align: center;
+}
+.bar1{
+
+  /* background-color: #08d665; */
+  width:70%;
+  height: 30px;
+  padding-top: 7px;
+  padding-left: 20px;
+  font-weight: bold;
+  color: black;
+  background-color: #08d665;
+  text-align: center;
+  /* color: white; */
+}
+.bar2{
+
+  /* background-color: #08d665; */
+  width:80%;
+  height: 30px;
+  padding-top: 7px;
+  padding-left: 20px;
+  font-weight: bold;
+  color: black;
+  background-color: #08d665;
+  text-align: center;
+  /* color: white; */
+}
+.bar3{
+
+  /* background-color: #08d665; */
+  width:80%;
+  height: 30px;
+  padding-top: 7px;
+  padding-left: 20px;
+  font-weight: bold;
+  color: black;
+  background-color: #08d665;
+  text-align: center;
+
+  /* color: white; */
+}
+.work{
+  padding-top: 80px;
+}
+.wrk{
+  color:white;
+  font-size: 35px;
+   padding-left: 40px;
+}
+.exprnce{
+  color:#08d665;
+  font-size: 35px;
+  }
+  .container{
+    text-align: center;
+  }
+  h3{
+    padding-top: 30px;
+    padding-left: 75px;
+    color: white;
+  }
+  .infosys{
+    color: white;
+    font-size: 30px;
+    text-decoration:underline;
+    padding-left: 75px;
+    font-style: italic;
+  }
+.qualities{
+  line-height: 2;
+  font-size: 20px;
+}
+.container{
+  background-color: #08d665;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  }
+.container:hover{
+  color: white;
+  background-color:black ;
+}
+
+.link{
+  text-decoration: none;
+  color: white;
+}
+.link:hover{
+  color: #08d665;
+}
+#contact{
+  text-align: center;
+}
+.contact{
+  color: white;
+}
+
+.cntct{
+  font-size: 30px;
+  color: #08d665;
+  text-align: center;
+  padding-left: 30px;
+  padding-top: 40px;
+}
+.number{
+  color: #08d665;
+}
+.email{
+  color: white;
+  font-size: 30px;
+  padding-left: 30px;
+
+}
+.email:hover{
+  color: #08d665;
+}
+.mail{
+  font-size: 30px;
+  color: #08d665;
+  text-align: center;
+  padding-left: 30px;
+  padding-top: 27px;
+  text-decoration: none;
+}
+.adrs{
+  font-size: 30px;
+  color: #08d665;
+  text-align: center;
+  padding-left:150px;
+  padding-top: 40px;
+}
+
+.address{
+  color: white;
+  font-size: 30px;
+  padding-left: 150px;
+}
+.location{
+  color: #08d665;
+  font-size: 20px;
+  padding-left: 135px;
+}
+.address:hover
+{
+  color: #08d665;
+}
+.maillink{
+  color:#08d665 ;
+  text-decoration: none;
+  padding-left: 70px;
+}
+.contactform{
+  padding-left: 90px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+.maillink:hover{
+  color: white;
+}
+.masters{
+  font-size: 25px;
+  padding-left: 190px;
+  color: #08d665 ;
+}
+.bachelors{
+  font-size: 25px;
+  padding-left: 190px;
+  color: #08d665 ;
+}
+.form{
+  padding-left: 150px;
+  padding-right: 190px;
+  padding-bottom: 90px;
+
+}
+label{
+  color: white;
+  font-size: 25px;
+}
